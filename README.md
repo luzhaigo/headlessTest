@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# HeadlessTest
+end2end test by jest and 
